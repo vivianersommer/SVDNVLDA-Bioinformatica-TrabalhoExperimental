@@ -1,0 +1,2007 @@
+Carcinoma Hepatocellular
+Stomach Neoplasms
+Breast Neoplasms
+Colorectal Neoplasms
+Carcinoma Non-Small-Cell Lung
+Glioma
+Pancreatic Neoplasms
+Prostatic Neoplasms
+Osteosarcoma
+Lung Neoplasms
+Urinary Bladder Neoplasms
+Ovarian Neoplasms
+Astrocytoma
+Uterine Cervical Neoplasms
+MALAT1
+H19
+NEAT1
+Glioblastoma
+XIST
+Neoplasms
+Carcinoma Renal Cell
+KCNQ1OT1
+Melanoma
+GAS5
+OIP5-AS1
+Colonic Neoplasms
+TUG1
+hsa-mir-21
+Esophageal Squamous Cell Carcinoma
+hsa-mir-155
+Adenocarcinoma of Lung
+SNHG1
+Nasopharyngeal Neoplasms
+CDKN2B-AS1
+HCG18
+Endometrial Neoplasms
+MEG3
+HOTAIR
+Neuroblastoma
+PVT1
+CASC7
+FGD5-AS1
+Liver Neoplasms
+TP73-AS1
+Thyroid Neoplasms
+Esophageal Neoplasms
+Leukemia Myeloid Acute
+SNHG16
+Squamous Cell Carcinoma of Head and Neck
+Thyroid Cancer Papillary
+Atherosclerosis
+hsa-miR-106a
+FTX
+LINC00657
+Triple Negative Breast Neoplasms
+SNHG7
+SNHG12
+LINC00958
+hsa-mir-146a
+BCYRN1
+Cholangiocarcinoma
+NORAD
+GABPB1-AS1
+SNHG3
+hsa-mir-17
+Multiple Myeloma
+hsa-mir-34a
+LINC00963
+SNHG5
+SNHG15
+DANCR
+hsa-mir-150
+MIAT
+MIR22HG
+LINC00662
+Laryngeal Neoplasms
+hsa-mir-221
+HCP5
+ZFAS1
+ZEB1-AS1
+LINC00665
+hsa-mir-210
+MCM3AP-AS1
+SNHG14
+Alzheimer Disease
+hsa-miR-485
+hsa-mir-29a
+hsa-mir-206
+UCA1
+hsa-mir-15a
+hsa-miR-330
+hsa-mir-145
+SNHG6
+hsa-let-7b
+Carcinoma Ovarian Epithelial
+Inflammation
+Myocardial Infarction
+hsa-miR-130a
+CRNDE
+hsa-mir-126
+hsa-mir-19a
+hsa-let-7g
+Gallbladder Neoplasms
+CASC2
+hsa-mir-143
+Medulloblastoma
+hsa-let-7c
+Liver Cirrhosis
+hsa-miR-214
+Nasopharyngeal Carcinoma
+Osteoarthritis
+hsa-mir-20a
+DLEU1
+hsa-miR-520a
+TTN-AS1
+hsa-mir-124
+MAGI2-AS3
+Heart Diseases
+hsa-mir-26a
+LINC00667
+hsa-mir-203
+DISC2
+hsa-mir-125b
+SNHG17
+hsa-miR-296
+SNHG20
+hsa-mir-18a
+DUXAP8
+DLX6-AS1
+hsa-miR-216a
+Carcinoma Squamous Cell
+Retinoblastoma
+hsa-miR-212
+hsa-miR-370
+hsa-mir-205
+Leukemia
+hsa-mir-9
+SBF2-AS1
+Kidney Neoplasms
+hsa-mir-181a
+hsa-miR-185
+LINC00511
+HOXA11-AS
+LINC00473
+ANRIL
+hsa-let-7i
+hsa-miR-520d
+LINC-ROR
+hsa-let-7d
+aHIF
+hsa-let-7e
+hsa-miR-199a
+NNT-AS1
+hsa-mir-222
+hsa-mir-27a
+hsa-miR-129
+hsa-mir-23a
+hsa-mir-223
+hsa-mir-16
+hsa-mir-27b
+LINC00641
+hsa-mir-24
+hsa-miR-195
+hsa-mir-132
+HULC
+NPTN-IT1
+CCAT1
+Diabetes Mellitus Type 2
+hsa-miR-199b
+GNAS-AS1
+Reperfusion Injury
+hsa-mir-29b
+hsa-miR-20b
+Carcinoma Pancreatic Ductal
+TMPO-AS1
+hsa-miR-15b
+Diabetes Mellitus
+MIR503HG
+hsa-mir-138
+MIR17HG
+hsa-mir-31
+hsa-mir-200b
+hsa-miR-374b
+hsa-miR-506
+hsa-miR-23b
+CASC9
+hsa-mir-218
+hsa-mir-182
+hsa-miR-424
+hsa-miR-106b
+HAGLR
+hsa-mir-106b
+hsa-miR-150
+HOTTIP
+AFAP1-AS1
+hsa-miR-423
+LINC00472
+hsa-miR-28
+hsa-mir-204
+hsa-miR-23a
+CYTOR
+hsa-miR-495
+hsa-miR-372
+hsa-miR-338
+hsa-miR-520c
+hsa-miR-493
+Cardiovascular Diseases
+Fragile X Syndrome
+hsa-miR-497
+BLACAT1
+hsa-miR-186
+hsa-miR-181c
+Pre-Eclampsia
+hsa-miR-140
+FBXL19-AS1
+hsa-miR-142
+hsa-mir-30a
+hsa-miR-302a
+hsa-mir-22
+hsa-mir-7
+hsa-miR-181d
+hsa-miR-373
+hsa-miR-22
+LINC00261
+Sarcoma Kaposi
+MUC20-OT1
+DSCAM-AS1
+hsa-mir-29c
+Arthritis Rheumatoid
+hsa-miR-374a
+hsa-miR-382
+hsa-miR-181b
+LOXL1-AS1
+HOTAIRM1
+hsa-mir-101
+hsa-mir-144
+DLEU2
+hsa-miR-132
+hsa-miR-326
+PCAT1
+hsa-miR-519d
+FENDRR
+hsa-miR-144
+Leukemia Lymphocytic Chronic B-Cell
+hsa-let-7a
+hsa-miR-302d
+LINC00461
+hsa-mir-140
+CCAT2
+Schizophrenia
+hsa-miR-320b
+ILF3-AS1
+hsa-miR-455
+hsa-let-7a-2
+LINC00689
+Intervertebral Disc Degeneration
+TTTY15
+hsa-miR-224
+hsa-miR-143
+hsa-mir-133a
+hsa-mir-195
+hsa-miR-154
+HOXA-AS2
+RPPH1
+Leukemia Myelogenous Chronic BCR-ABL Positive
+Hepatitis B
+hsa-miR-302b
+hsa-miR-148a
+hsa-miR-520e
+hsa-miR-320a
+hsa-miR-324
+hsa-miR-331
+hsa-let-7f
+HCG11
+LINC00152
+hsa-mir-200c
+hsa-miR-362
+Parkinson Disease
+IPW
+JPX
+hsa-miR-27b
+Head and Neck Neoplasms
+hsa-miR-378a
+hsa-miR-128
+MEG8
+Huntington Disease
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+hsa-mir-23b
+MIR100HG
+Coronary Artery Disease
+LINC00176
+hsa-miR-25
+PINK1-AS
+CBR3-AS1
+hsa-mir-122
+hsa-mir-148a
+LINC00707
+hsa-miR-421
+hsa-mir-137
+hsa-miR-193b
+LUCAT1
+hsa-miR-31
+hsa-miR-145
+TP53TG1
+hsa-miR-152
+hsa-mir-494
+hsa-miR-542
+Rhabdomyosarcoma
+hsa-miR-217
+hsa-mir-214
+hsa-mir-183
+hsa-mir-19b
+hsa-miR-367
+hsa-miR-299
+hsa-mir-375
+hsa-miR-29a
+hsa-miR-377
+hsa-mir-10b
+hsa-miR-409
+hsa-miR-1
+hsa-miR-204
+hsa-mir-199a
+LINC00467
+Lymphoma
+hsa-miR-491
+hsa-miR-107
+MIR4435-2HG
+hsa-miR-15a
+hsa-miR-148b
+hsa-miR-20a
+ENTPD1-AS1
+LINC00174
+hsa-miR-361
+NR2F2-AS1
+hsa-miR-342
+hsa-miR-29c
+hsa-mir-100
+hsa-miR-211
+LINC01089
+FAL1
+hsa-miR-650
+hsa-miR-149
+hsa-miR-32
+Pituitary Neoplasms
+hsa-mir-429
+hsa-miR-136
+hsa-miR-34c
+hsa-miR-206
+Nasal Polyps
+hsa-miR-16
+hsa-miR-18a
+Thyroid Carcinoma Anaplastic
+PTPRG-AS1
+Muscular Dystrophy Duchenne
+Hypertension Pulmonary
+CASC19
+PANDAR
+BANCR
+hsa-miR-363
+Cardiomegaly
+IFNG-AS1
+hsa-miR-141
+FOXD2-AS1
+hsa-mir-93
+hsa-mir-142
+hsa-miR-182
+hsa-mir-200a
+hsa-miR-339
+hsa-miR-130b
+MSC-AS1
+HNF1A-AS1
+hsa-miR-345
+LMCD1-AS1
+hsa-miR-335
+hsa-miR-422a
+hsa-miR-449a
+hsa-miR-200a
+hsa-miR-454
+Lymphoma B-Cell
+hsa-miR-193a
+hsa-miR-122
+hsa-mir-125a
+hsa-miR-181a
+Endometriosis
+hsa-miR-18b
+Non-alcoholic Fatty Liver Disease
+hsa-mir-125b-1
+Diabetic Nephropathies
+hsa-miR-448
+hsa-mir-130a
+Tongue Neoplasms
+BDNF-AS
+hsa-miR-488
+hsa-miR-376c
+hsa-miR-340
+hsa-miR-17
+hsa-miR-301a
+hsa-mir-451
+hsa-miR-30b
+Hepatitis C
+DGCR5
+hsa-miR-452
+hsa-miR-33a
+lncRNA-ATB
+SOX2OT
+hsa-miR-302c
+SPRY4-IT1
+HEIH
+hsa-miR-301b
+hsa-mir-16-1
+Psoriasis
+hsa-miR-30e
+LINC00324
+hsa-miR-30d
+Arbovirus Infections
+LINC00460
+hsa-miR-613
+hsa-miR-625
+hsa-mir-373
+hsa-mir-19b-1
+Tuberculosis
+Obesity
+Lymphoma Mantle-Cell
+DAOA-AS1
+hsa-miR-449b
+hsa-mir-212
+Burkitt Lymphoma
+hsa-miR-200b
+hsa-miR-155
+hsa-mir-181b
+hsa-mir-135b
+hsa-miR-125a
+Lymphoma Large B-Cell Diffuse
+hsa-miR-429
+hsa-mir-139
+hsa-miR-524
+PART1
+hsa-mir-15b
+hsa-miR-188
+FEZF1-AS1
+hsa-miR-490
+SNHG8
+LINC-PINT
+HOXD-AS1
+Heart Failure
+hsa-mir-130b
+hsa-miR-33b
+EIF3J-AS1
+hsa-miR-411
+SNHG4
+hsa-miR-503
+hsa-mir-25
+Hypertension
+LRRC75A-AS1
+hsa-miR-543
+hsa-miR-205
+LINC01133
+HAND2-AS1
+TINCR
+Spinal Cord Injuries
+Ischemia
+hsa-miR-223
+hsa-miR-34a
+hsa-mir-107
+hsa-mir-590
+hsa-miR-328
+MIR155HG
+MAFG-AS1
+hsa-mir-1
+FMR1-AS1
+hsa-mir-193b
+hsa-miR-200c
+hsa-miR-433
+hsa-mir-96
+hsa-miR-300
+hsa-miR-489
+hsa-miR-539
+OTUD6B-AS1
+hsa-mir-141
+hsa-mir-152
+hsa-miR-196b
+PCAT-1
+hsa-miR-146a
+hsa-miR-494
+MIR31HG
+LINCRNA-p21
+Gastrointestinal Stromal Tumors
+HOXA-AS3
+NKILA
+hsa-miR-24
+hsa-mir-194
+hsa-mir-34c
+DRAIC
+hsa-mir-129
+RMRP
+hsa-miR-93
+hsa-miR-346
+Gastrointestinal Neoplasms
+GAS5-AS1
+hsa-miR-34b
+LINC00668
+hsa-miR-483
+hsa-miR-16-1
+Wilms Tumor
+hsa-mir-92a
+NPAP1
+hsa-mir-335
+LINC00858
+hsa-miR-135b
+TPT1-AS1
+hsa-mir-217
+hsa-miR-125b
+Small Cell Lung Carcinoma
+VPS9D1-AS1
+CCDC144NL-AS1
+hsa-miR-24-1
+hsa-miR-19b
+hsa-mir-98
+hsa-mir-106a
+MBNL1-AS1
+HIF1A-AS1
+hsa-miR-381
+Pulmonary Fibrosis
+hsa-miR-103a-2
+Leukemia-Lymphoma Adult T-Cell
+Sepsis
+hsa-let-7
+RN7SL1
+hsa-mir-449a
+hsa-miR-9
+CUDR
+LIFR-AS1
+hsa-miR-138
+hsa-miR-379
+hsa-mir-1-1
+hsa-miR-134
+AGAP2-AS1
+Inflammatory Bowel Diseases
+KRTAP5-AS1
+hsa-mir-1-2
+DBET
+hsa-mir-370
+BC200
+hsa-mir-301a
+CASC15
+hsa-miR-30a
+Atrial Fibrillation
+hsa-mir-378
+hsa-miR-137
+hsa-miR-502
+hsa-miR-197
+hsa-miR-19a
+hsa-miR-486
+hsa-miR-29b
+Choriocarcinoma
+hsa-mir-497
+Neuralgia
+hsa-miR-30c
+PRNCR1
+hsa-miR-323a
+hsa-miR-146b
+SNHG11
+hsa-mir-26b
+hsa-miR-27a
+hsa-miR-216b
+hsa-mir-29b-1
+hsa-miR-10a
+Multiple Sclerosis
+ATB
+Hypertrophy
+hsa-mir-146b
+hsa-mir-185
+hsa-mir-302
+MT1JP
+hsa-mir-340
+hsa-mir-224
+hsa-miR-221
+hsa-miR-10b
+hsa-miR-410
+hsa-miR-153
+hsa-miR-139
+hsa-mir-30b
+TRPM2-AS
+LINC00173
+Asthma
+NR2F1-AS1
+hsa-mir-506
+Hepatoblastoma
+hsa-miR-574
+Acquired Immunodeficiency Syndrome
+CTD-2574D22.4
+IGF2-AS
+WT1-AS
+hsa-miR-431
+hsa-mir-10a
+Diabetic Retinopathy
+hsa-miR-29b-2
+MIR4697HG
+hsa-mir-92a-1
+hsa-mir-192
+MATN1-AS1
+hsa-miR-124
+hsa-miR-21
+hsa-mir-99a
+DNM3OS
+hsa-mir-148b
+LINC00313
+PTENP1
+hsa-miR-98
+hsa-miR-196a-2
+FER1L4
+TUSC7
+hsa-mir-503
+ASB16-AS1
+BACE1-AS
+LINC00265
+hsa-miR-222
+hsa-mir-338
+AC125807.2
+Leukemia B-Cell
+hsa-mir-320a
+LINC00339
+hsa-mir-424
+PCAT6
+Prostate
+hsa-miR-126
+hsa-miR-708
+hsa-miR-138-2
+FAS-AS1
+Stroke
+RHPN1-AS1
+hsa-miR-194
+LINC00959
+Cardiomyopathy Hypertrophic
+MNX1-AS1
+hsa-mir-328
+hsa-mir-125b-2
+Brain Ischemia
+AC139887.2
+Sarcoma Ewing
+hsa-mir-542
+ZEB2-AS1
+hsa-mir-184
+Nervous System Diseases
+hsa-miR-26b
+KMT2E-AS1
+MIR99AHG
+HAR1A
+hsa-mir-134
+Acute Lung Injury
+Meningioma
+Hirschsprung Disease
+Myocardial Reperfusion Injury
+hsa-mir-381
+LINC00346
+hsa-miR-505
+hsa-let-7a-1
+Pulmonary Disease Chronic Obstructive
+WDFY3-AS2
+Wound Healing
+hsa-mir-16-2
+NBAT1
+LINC01234
+Aneurysm
+LINC01194
+hsa-mir-320
+CASC11
+hsa-miR-26a
+FGF10-AS1
+Testicular Neoplasms
+hsa-mir-196a
+hsa-mir-24-1
+BCAR4
+Telangiectasia Hereditary Hemorrhagic
+hsa-mir-101-1
+Mouth Neoplasms
+NRON
+hsa-miR-103a
+GHET1
+hsa-mir-34b
+hsa-mir-663a
+LEF1-AS1
+hsa-mir-149
+TNRC6C-AS1
+hsa-mir-935
+hsa-mir-133b
+SNHG9
+hsa-mir-101-2
+hsa-miR-874
+LINC00887
+MINCR
+hsa-miR-192
+LINC01018
+hsa-miR-135a
+hsa-mir-451a
+MIR137HG
+hsa-miR-92a-1
+hsa-miR-129-1
+hsa-miR-202
+LINC00052
+hsa-miR-590
+PCGEM1
+RP11-838N2.4
+hsa-mir-135a
+Pharyngeal Neoplasms
+Adenoviridae Infections
+hsa-miR-218-1
+Leishmaniasis
+HOXB-AS1
+HAR1B
+NBR2
+hsa-mir-330
+hsa-miR-219
+LINC00673
+hsa-mir-520a
+hsa-mir-326
+LINC01006
+hsa-let-7a-3
+hsa-mir-511
+hsa-mir-219
+ROR
+hsa-mir-196b
+FAM83H-AS1
+EMX2OS
+hsa-miR-218
+PICSAR
+LSINCT5
+FOXD3-AS1
+hsa-miR-671
+hsa-miR-499a
+AL031123.2
+Angelman Syndrome
+ADAMTS9-AS2
+FLVCR1-AS1
+Neurodevelopmental Disorders
+hsa-miR-96
+hsa-miR-615
+hsa-miR-194-2
+hsa-miR-19b-1
+hsa-mir-127
+BAIAP2-AS1
+PURPL
+hsa-mir-30d
+LINC00319
+Hodgkin Disease
+hsa-mir-638
+hsa-mir-372
+Rectal Neoplasms
+hsa-miR-208b
+Leukemia Promyelocytic Acute
+SLC26A4-AS1
+hsa-mir-33a
+hsa-miR-215
+hsa-miR-7-2
+HLA-F-AS1
+hsa-mir-7-2
+hsa-mir-367
+Chordoma
+Arteriosclerosis Obliterans
+Adrenocortical Carcinoma
+hsa-mir-200
+hsa-mir-124-2
+hsa-miR-513b
+Cicatrix Hypertrophic
+hsa-miR-133b
+CPS1-IT1
+hsa-mir-7-1
+Bipolar Disorder
+hsa-miR-101
+hsa-mir-377
+ACTN4
+hsa-mir-7-3
+hsa-miR-498
+hsa-miR-92b
+hsa-miR-187
+CACNA1G-AS1
+hsa-mir-302a
+LINC00115
+hsa-miR-663a
+hsa-mir-29b-2
+hsa-mir-128
+Idiopathic Pulmonary Fibrosis
+Chemical and Drug Induced Liver Injury
+hsa-mir-613
+MDC1-AS1
+Muscular Dystrophy Facioscapulohumeral
+hsa-mir-186
+lncRNA-LET
+EGFR-AS1
+AC245452.1
+GFRA1
+ATP6V1G2-DDX39B
+hsa-mir-383
+hsa-mir-124-1
+NONRATT021972
+LINC01296
+ZNRD1-AS1
+FAM201A
+hsa-mir-410
+hsa-mir-153
+hsa-mir-191
+LINC01772
+Polycystic Ovary Syndrome
+SOX21-AS1
+hsa-miR-196a
+SOX2-OT
+LINC01139
+RP11-363E7.4
+OGFRP1
+Lupus Nephritis
+Kidney Diseases
+hsa-mir-199a-1
+AWPPH
+Carcinoma Signet Ring Cell
+hsa-miR-760
+hsa-mir-409
+hsa-mir-296
+GACAT2
+AL031595.2
+Heart Septal Defects Ventricular
+hsa-miR-127
+HIF1A-AS2
+LINC00663
+LINC00365
+Autism Spectrum Disorder
+hsa-mir-329
+LINC00899
+Pain
+hsa-mir-365
+hsa-let-7f-1
+hsa-mir-495
+hsa-mir-218-2
+hsa-mir-342
+hsa-mir-874
+MIR34AHG
+Lymphoma Non-Hodgkin
+hsa-miR-208a
+MIR210HG
+Acute Kidney Injury
+hsa-mir-362
+FALEC
+Pancreatic Intraductal Neoplasms
+Epilepsy Temporal Lobe
+ANCR
+Panic Disorder
+hsa-mir-9-2
+hsa-mir-33b
+Neurodegenerative Diseases
+HLA-AS1
+hsa-mir-133a-1
+hsa-mir-216b
+hsa-mir-421
+hsa-let-7f-2
+hsa-mir-20b
+Inferior Wall Myocardial Infarction
+MYLK-AS1
+HOXC-AS3
+hsa-mir-211
+AC090510.3
+hsa-miR-508
+DUXAP10
+hsa-mir-199a-2
+SUMO1P3
+hsa-miR-375
+PAUPAR
+hsa-mir-486
+LINC01116
+DCTN1-AS1
+GAPLINC
+hsa-miR-744
+hsa-mir-9-1
+LBX2-AS1
+ABHD11-AS1
+hsa-mir-346
+hsa-mir-539
+Colitis Ulcerative
+TOB1-AS1
+HOST2
+AL022322.2
+PCA3
+hsa-miR-383
+hsa-mir-124-3
+KCNQ1DN
+hsa-mir-675
+Cardiomyopathy Dilated
+Cartilage Diseases
+Diabetes Mellitus Type 1
+hsa-mir-324
+hsa-mir-9-3
+hsa-mir-455
+FAM3D-AS1
+CCDC26
+Encephalomyelitis
+LINC01503
+hsa-mir-136
+Hematologic Neoplasms
+Infertility Male
+hsa-mir-1271
+hsa-mir-30c
+GAS6-AS2
+hsa-mir-331
+hsa-mir-543
+Myocardial Ischemia
+Seizures
+hsa-mir-218-1
+lnc-LCE5A-1
+hsa-mir-133a-2
+hsa-mir-483
+Scleroderma Systemic
+EPB41L4A-AS2
+hsa-mir-491
+ADPGK-AS1
+Bone Neoplasms
+hsa-mir-384
+CHRF
+MESTIT1
+LINP1
+HIV Infections
+Liver Diseases
+GAS6-AS1
+hsa-miR-509
+hsa-mir-215
+DLG1-AS1
+hsa-mir-193a
+HAGLROS
+PEG10
+hsa-mir-138-2
+GACAT3
+C5orf66-AS1
+hsa-mir-154
+Carcinoma Adenoid Cystic
+LOC554202
+hsa-mir-92-1
+Influenza Human
+LOC109207222
+Depressive Disorder
+PTCSC3
+Leiomyoma
+hsa-mir-302c
+LINC00312
+LINC-POU3F3
+PCAT18
+UPF1
+hsa-miR-30c-1
+FMR5
+Musculoskeletal Abnormalities
+PlncRNA-1
+AL162457.1
+hsa-mir-582
+LINK-A
+IGF2AS
+Pneumoconiosis
+lnc-KCTD6-3
+hsa-miR-210
+Retinal Degeneration
+hsa-mir-592
+ITGB1
+SPINT1-AS1
+lncRNA-UCA1
+hsa-mir-382
+Silver-Russell Syndrome
+hsa-mir-197
+hsa-miR-133a
+hsa-mir-302b
+Prader-Willi Syndrome
+hsa-miR-378
+hsa-mir-138-1
+hsa-mir-32
+hsa-miR-183
+DBH-AS1
+AOC4P
+Aortic Aneurysm Abdominal
+hsa-mir-720
+NCK1-AS1
+hsa-mir-363
+EGOT
+AB073614
+hsa-mir-448
+Psychotic Disorders
+RAMP2-AS1
+LINC00982
+Bile Duct Neoplasms
+HOXA10-AS
+HAS2-AS1
+hsa-mir-1247
+hsa-mir-1307
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+hsa-mir-29
+THOR
+hsa-miR-675
+hsa-mir-1297
+hsa-mir-198
+hsa-mir-18
+BC032469
+hsa-miR-500a
+hsa-mir-181c
+ROR1-AS1
+Liver Failure
+DDX11-AS1
+hsa-mir-103a-2
+Hernia Diaphragmatic
+Lupus Erythematosus Systemic
+Barrett Esophagus
+Depression
+Amyotrophic Lateral Sclerosis
+OR3A4
+hsa-mir-19b-2
+CEBPA-AS1
+FOXP4-AS1
+LOC730101
+Polycystic Kidney Diseases
+EPIC1
+RGMB-AS1
+hsa-mir-942
+Fanconi Anemia
+LOC285194
+hsa-mir-1236
+hsa-mir-135a-1
+hsa-miR-487b
+hsa-mir-135a-2
+hsa-mir-1207
+PCAT7
+EWSAT1
+Keloid
+Klatskin Tumor
+21A
+hsa-miR-451a
+Aging
+MYEF2
+FMR6
+hsa-mir-501
+Myelodysplastic Syndromes
+GIHCG
+hsa-mir-493
+PRINS
+Chondrosarcoma
+AC007388.1
+Pheochromocytoma
+hsa-mir-181b-1
+Pneumonia
+hsa-mir-423
+Leukemia Erythroblastic Acute
+RP11-160H22.5
+ADARB2-AS1
+UFC1
+lncARSR
+hsa-mir-199b
+IGFL2-AS1
+LINC01140
+IGFBP7-AS1
+Keratitis
+hsa-mir-187
+gtl2-as
+NCRUPAR
+CCHE1
+SBDSP1
+KTN1-AS1
+TCL6
+PCAT29
+hsa-mir-202
+AC091891.2
+RN7SK
+hsa-mir-28
+MACC1-AS1
+RAB11B-AS1
+Neurilemmoma
+Thyroiditis Autoimmune
+hsa-miR-584
+PANDA
+Graft vs Host Disease
+PSMD6-AS1
+LINC00538
+MYCLo-5
+Fibrosarcoma
+GPR65
+PAN
+Crohn Disease
+AC068282.1
+hsa-mir-519d
+Mood Disorders
+NEAT1_2
+Hepatitis B Chronic
+MFI2
+hsa-mir-411
+LINC-ITGB1
+Sarcoma
+TDRG1
+hsa-mir-376a
+hsa-mir-490
+hsa-mir-371
+hsa-mir-124a
+hsa-mir-181
+Macular Degeneration
+hsa-mir-208a
+hsa-mir-940
+MLK7-AS1
+ASAP1-IT1
+LINC00525
+Endomyocardial Fibrosis
+ZFPM2-AS1
+hsa-mir-520b
+MVIH
+LINC01433
+CCAL
+WEE2-AS1
+hsa-mir-498
+Tauopathies
+hsa-mir-30e
+POU3F3
+hsa-mir-339
+Carcinoma Endometrioid
+CASC8
+Biliary Tract Neoplasms
+hsa-mir-320d-1
+IRAIN
+ARAP1-AS1
+LINC00857
+BOK-AS1
+hsa-miR-629
+hsa-mir-378a
+OVCH1-AS1
+DCST1-AS1
+hsa-mir-103
+hsa-miR-184
+NEF
+LINC00518
+hsa-mir-103a-1
+hsa-mir-1258
+hsa-mir-374b
+SAMMSON
+Chronic Pain
+LINC00271
+Mastocytosis Systemic
+FOXCUT
+TUBA4B
+hsa-miR-652
+MSR1
+Sjogren's Syndrome
+hsa-mir-625
+Cardiomyopathies
+Myotonic Dystrophy
+LINC00520
+hsa-miR-1207
+hsa-mir-454
+Diabetic Cardiomyopathies
+hsa-mir-320d-2
+PROX1-AS1
+hsa-mir-92b
+Hemangioma
+SMAD5-AS1
+Thrombosis
+PCBP2-OT1
+Graves Disease
+hsa-mir-30
+MYCLo-6
+hsa-mir-520c
+Osteoporosis
+Bone Diseases
+Tourette Syndrome
+hsa-mir-466
+RAD51-AS1
+lnc-DC
+Cataract
+hsa-miR-191
+FTH1P3
+hsa-mir-744
+Depressive Disorder Major
+Hypersensitivity
+Granulosa Cell Tumor
+LINC01158
+RP11-552M11.4
+HOXB-AS3
+LUNAR1
+LINC00336
+ADAMTS9-AS1
+Carcinoma Embryonal
+PCAT19
+MALINC1
+uc001lsz
+Angiomyolipoma
+Diabetic Angiopathies
+Brain Neoplasms
+hsa-mir-26a-2
+hsa-mir-574
+DQ786243
+PAPAS
+LINC00483
+LINC00210
+hsa-mir-1246
+GASL1
+Biliary Atresia
+l1pa16
+hsa-mir-188
+Ataxia Telangiectasia
+FAM215A
+MIR205HG
+LINC01510
+hsa-mir-216a
+AC087521.1
+lncTCF7
+hsa-mir-608
+Encephalitis Viruses Japanese
+FOXC2-AS1
+hsa-miR-138-1
+hsa-mir-24-2
+Pancreatitis Acute Necrotizing
+Parathyroid Neoplasms
+Pterygium
+hsa-mir-99b
+hsa-mir-133
+Aortic Aneurysm Thoracic
+hsa-mir-1298
+hsa-mir-630
+LRRC2-AS1
+AC144450.1
+Down Syndrome
+lnc-HOST2
+Hemangiosarcoma
+Myocarditis
+LINC00160
+Wounds and Injuries
+hsa-mir-499a
+hsa-mir-26a-1
+NOS2
+MIF-AS1
+LINC00675
+AC007743.1
+Carcinoma Basal Cell
+Arrhythmias Cardiac
+LINC00337
+LINC01354
+hsa-mir-616
+HANR
+hsa-mir-650
+hsa-mir-34
+hsa-mir-622
+GClnc1
+hsa-miR-99b
+INHBA-AS1
+Brain Diseases
+hsa-mir-361
+Leukemia Myeloid
+hsa-mir-489
+Cerebral Hemorrhage
+TATDN1
+Central Nervous System Diseases
+LINC00968
+AK001796
+INXS
+hsa-mir-509
+hsa-mir-664
+PCNA-AS1
+lnc-DILC
+MT-LIPCAR
+Narcolepsy
+Cytotoxicity Tests Immunologic
+hsa-mir-1178
+PRAL
+hsa-mir-302d
+LINC00628
+hsa-mir-545
+hsa-mir-125
+mer11c
+SRA
+Periodontitis
+hsa-mir-665
+HMMR-AS1
+Aortic Aneurysm
+hsa-mir-92a-2
+PLAC2
+snaR
+LINC00221
+LINC-UFC1
+BX357664
+PSMB8-AS1
+LUADT1
+hsa-mir-208
+Immune System Diseases
+CCEPR
+hsa-mir-487b
+Spondylitis Ankylosing
+Glaucoma
+TUC338
+LINC01857
+Myxoma
+lncRNA-NEF
+LINC00850
+hsa-mir-181b-2
+lncRNA-MIF
+hsa-mir-203a
+hsa-mir-708
+LINC00704
+PICART1
+hsa-mir-646
+hsa-mir-181a-2
+hsa-mir-374a
+LINC00961
+LINC00978
+hsa-mir-663
+DISC1
+MIR7-3HG
+GATA6-AS
+MFI2-AS1
+hsa-mir-130
+hsa-mir-500a
+LINC00969
+hsa-miR-325
+LINC02424
+hsa-miR-608
+hsa-mir-193
+Gout
+ENST00000434223
+hsa-mir-422a
+ST8SIA6-AS1
+Arthritis Juvenile
+BOKAS
+hsa-mir-639
+LINC01616
+KIAA0125
+anti-NOS2A
+APTR
+MAPT-AS1
+lncRNA-AK058803
+AC004528.1
+Metabolic Diseases
+hsa-mir-1273g
+Demyelinating Diseases
+LINC01420
+Retinal Neovascularization
+hsa-mir-1908
+LOC553103
+Beckwith-Wiedemann Syndrome
+AK027294
+B3GALT5-AS1
+MYCNOS
+RPL34-AS1
+hsa-mir-4262
+hsa-miR-100
+Infertility
+HMLINCRNA717
+Giant Cell Tumor of Bone
+lnc-Sox5
+LINC01419
+ZNFX1-AS1
+RP11-334E6.12
+hsa-mir-345
+hsa-miR-101-1
+Lymphoma T-Cell
+LINC00355
+HOXA13
+NDM29
+hsa-mir-300
+GLIS3-AS1
+Aortic Valve Insufficiency
+SChLAP1
+lnc-ATB
+RNCR3
+hsa-mir-522
+hsa-mir-629
+hsa-miR-7
+uc.338
+CAT104
+CARLo-5
+LINC-UBC1
+hsa-mir-637
+MYCLo-4
+RMST
+Peripheral Nerve Injuries
+SATB2-AS1
+AB209630
+Hypoxia
+hsa-mir-939
+MYCNOS-01
+LOC100130476
+hsa-mir-761
+hsa-mir-4728
+hsa-mir-431
+TRERNA1
+PDIA3P
+CASC2c
+hsa-mir-504
+Liposarcoma Myxoid
+LINC00994
+NRIR
+hsa-miR-203a
+PXN-AS1
+AC008392.1
+Colitis
+MDC1-AS
+lnc-THOR
+ncRAN
+hsa-mir-485
+hsa-mir-379
+LINC00901
+Vascular System Injuries
+hsa-mir-876
+hsa-mir-302e
+Rhinitis Allergic
+DARS-AS1
+Muscular Atrophy
+Lung Injury
+Silicosis
+LINC01426
+Marek Disease
+ANRASSF1
+RBM5-AS1
+Arthritis
+Oral Submucous Fibrosis
+Corneal Dystrophies Hereditary
+Lymphoma T-Cell Cutaneous
+hsa-miR-29b-1
+Intracranial Aneurysm
+hsa-mir-129-1
+HTT-AS
+LET
+LINC02041
+LINC01088
+hsa-miR-99a
+Glomerulonephritis IGA
+AL031710.1
+Cholesteatoma
+hsa-mir-499
+Aortic Valve Stenosis
+hsa-mir-181d
+BC040587
+Z38
+AL627422.2
+Adrenal Cortex Neoplasms
+LINC00941
+MANCR
+AC062028.1
+AC100786.1
+hsa-mir-95
+BORG
+LINC01138
+hsa-mir-488
+FGFR3-AS1
+SOX2
+LINC01104
+Mental Disorders
+91H
+Leukemia Lymphoid
+PXN-AS1-L
+XLOC_008466
+SDPR-AS
+LINC00470
+AIRN
+Fatty Liver
+MORT
+lncSox4
+Teratocarcinoma
+PTCSC2
+KCNK15-AS1
+lnc-AL355149.1-1
+hsa-miR-92a
+KRT7-AS
+TUSC8
+CAHM
+Myositis Inclusion Body
+Leukemia T-Cell
+Hyperaldosteronism
+lncBRM
+Lichen Planus
+hsa-mir-18b
+Enterovirus Infections
+hsa-mir-873
+Iron Metabolism Disorders
+MYOSLID
+PAR5
+CDKN2B
+LINC00161
+LINC00462
+LINC00341
+hsa-mir-520e
+AC008691.1
+Parotid Neoplasms
+GAS8-AS1
+hsa-mir-508
+HOXA
+Ocular Motility Disorders
+HAR1
+TSlnc8
+Pulmonary Embolism
+hsa-mir-452
+hsa-mir-1231
+Myopia
+PGM5-AS1
+EZR-AS1
+AC003681.1
+CERNA2
+Pregnancy Complications
+AC005696.4
+LINC00882
+Legg-Calve-Perthes Disease
+Leukemia Megakaryoblastic Acute
+AL139011.1
+CAR10
+hsa-mir-615
+C21orf62-AS1
+CADM1-AS1
+YIYA
+EgoA
+Mucocutaneous Lymph Node Syndrome
+CACS15
+AL358334.2
+hsa-miR-575
+hsa-mir-610
+LINC01314
+lncGPR107
+miR143HG
+LINC00974
+Respiratory Distress Syndrome Adult
+Cystic Fibrosis
+CLMAT3
+CFLAR-AS1
+hsa-mir-922
+hsa-mir-103b-2
+NEXN-AS1
+lnc-ZNF674-1
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+LINC00926
+Cryptosporidiosis
+Carcinoma Skin Appendage
+lnc01614
+hsa-mir-4317
+hsa-mir-602
+lncRNA-PRAL
+RP11-445H22.4
+LINC01262
+hsa-mir-500
+Bronchiolitis Obliterans
+Leiomyosarcoma
+LINC01013
+LOC344887
+AC109322.1
+uc002mbe.2
+UNC5B-AS1
+Familial Primary Pulmonary Hypertension
+hsa-mir-325
+ELF3-AS1
+AC025263.1
+ESCCAL-5
+lncRNA-URHC
+TC0101441
+KIAA0087
+hsa-mir-322
+AC025580.1
+LINC02418
+ZEB1
+BALR-2
+hsa-mir-23c
+EGOB
+LINC01315
+Metabolic Syndrome
+hsa-mir-33
+RP11-181G12.2
+Bronchopulmonary Dysplasia
+Carotid Artery Diseases
+hsa-mir-103a
+IGF2BP2-AS1
+Hepatitis Alcoholic
+ENST00000537266
+AC022075.3
+LOC146880
+Hypoxia-Ischemia Brain
+GAS5-family
+RAET1K
+LOC389332
+hsa-mir-433
+MSTO2P
+Oligodendroglioma
+lncCAMTA1
+hsa-miR-517a
+hsa-mir-449b
+CTBP1-AS
+LINC00973
+sONE
+RP11-81H3.2
+TALNEC2
+Tumor Suppressor Protein p53
+ZNF667-AS1
+hsa-mir-492
+hsa-mir-153-1
+Staphylococcal Scalded Skin Syndrome
+LINC01852
+Periodontal Diseases
+hsa-mir-937
+hsa-mir-199
+BRE-AS1
+Myasthenic Syndromes Congenital
+Heroin Dependence
+White spot syndrome virus 1
+Eosinophilic Esophagitis
+FOXF1-AS1
+LINC01093
+AL121895.1
+LINC00612
+HOXC13-AS
+hsa-mir-577
+ENST00000457799
+HOXA11
+hsa-mir-196a-1
+AP002380.1
+GATA6-AS1
+lncRNA-p21
+hsa-mir-758
+hsa-mir-575
+NAMA
+hsa-mir-652
+Hyperglycemia
+DPP10-AS1
+hsa-miR-544a
+PARTICLE
+BM742401
+AK001058
+LINC01410
+Emphysema
+XLOC_010235
+LINC01207
+LINC-NeD125
+RNY1
+hsa-mir-103b-1
+XIAP-AS1
+Muscular Dystrophies
+LINC00629
+Neoplasm Metastasis
+hsa-mir-1202
+hsa-mir-1303
+IUR
+LINC01287
+RP11
+RP11-600K15.1
+Neurofibromatosis 1
+XLOC_006390
+LSINCT7
+lncRNA-HEIH
+C14orf132
+hsa-mir-3178
+n340790
+LOC285758
+LINC01061
+EPEL
+LSINCT1
+hsa-mir-657
+pancEts-1
+LINC00504
+RNY3
+LINC01225
+SEMA3B-AS1
+UPAT
+LSINCT9
+Fatty Liver Alcoholic
+LINC00441
+LOC283070
+LSINCT12
+ecCEBPA
+hsa-mir-1182
+hsa-mir-128-2
+DILC
+TPTE2P1
+AL590666.3
+GMAN
+DiGeorge Syndrome
+CADM3-AS1
+hsa-mir-301b
+Lymphoma Large-Cell Immunoblastic
+LINC00908
+LL22NC03-N64E9.1
+hsa-mir-544a
+SSTR5-AS1
+LSINCT3
+TPTEP1
+hsa-mir-516a-2
+Epilepsy
+hsa-mir-320c-2
+FLJ33360
+hsa-mir-516a-1
+NR027113
+AC138128.1
+Hearing Loss
+ZNF281
+Erbb4-IR
+Ischemic Attack Transient
+hsa-mir-323a
+LSINCT4
+LSINCT8
+Osteoarthritis Knee
+hsa-mir-6852
+lncAGER
+SRA1
+Angina Unstable
+LOC284454
+Osteomyelitis
+CDKN2BAS
+LINC00277
+hsa-mir-628
+Glomerulosclerosis Focal Segmental
+RP5-1024C24.1
+RUNX1-IT1
+Dermatomyositis
+Abhd11os
+HIT000218960
+hsa-mir-671
+Growth Hormone-Secreting Pituitary Adenoma
+PCAT14
+RERT
+hsa-mir-208b
+ZXF2
+OECC
+RFPL1S
+hsa-mir-661
+Arthritis Psoriatic
+HCG22
+LINC01638
+LINC01125
+Carcinoma Merkel Cell
+PCED1B-AS1
+Adenocarcinoma
+Burns
+ITGB2-AS1
+CTC-276P9.1
+LINC0086
+hsa-mir-153-2
+hsa-mir-599
+AC104809.1
+XLOC_010588
+hsa-mir-196a-2
+Infection
+LINC00515
+PTAR
+lincRNA-ROR
+AK023948
+Cerebrovascular Disorders
+RPSAP52
+LINC00037
+Mitochondrial Diseases
+LINC01561
+LINC00572
+hsa-mir-30c-2
+Papillomaviridae
+PCAN-R1
+Kidney Failure Chronic
+hsa-mir-194-2
+Waldenstrom Macroglobulinemia
+HNF1A-AS
+hsa-mir-299
+LINC01436
+ASBEL
+hsa-mir-593
+NAG7
+SFTA1P
+hsa-mir-517a
+Diabetes Gestational
+CALML3-AS1
+MA-LINC1
+ERVH48-1
+HOXB13-AS1
+LCAL6
+TRERNA
+SLCO4A1-AS1
+intronic lncrna in dst locus(aw860958)
+LINC01082
+LINC-OIP5
+CCND2-AS1
+Primary Myelofibrosis
+LINC00565
+Hepatitis C Chronic
+hsa-mir-589
+hsa-mir-1254
+hsa-mir-1296
+LINC00114
+Anemia Aplastic
+PACERR
+ST3GAL6-AS1
+lnc-OC1
+LSINCT11
+hsa-mir-3619
+FAM83A-AS1
+Liposarcoma
+hsa-mir-520d
+UCC
+BC029135
+hsa-miR-7-1
+MIR7515HG
+hsa-mir-647
+GACAT1
+lncRNA-HIT
+Immunologic Deficiency Syndromes
+Listeriosis
+CCND1
+KRT19P3
+hsa-mir-194-1
+lncRNA-MVIH
+AATBC
+intronic lncrna in mkl1 locus(bf898694)
+BLACAT2
+hsa-mir-320c-1
+intronic lncrna in dazap1 locus(bg010309)
+lncRNA-CIR
+LINC01614
+AC037441.1
+hsa-mir-502
+Malaria Cerebral
+Muscular Diseases
+RP11-909N17.3
+intronic lncrna in ascc3 locus(aw937483)
+Supranuclear Palsy Progressive
+PDIA3P1
+intronic lncrna in atf3 locus(bf875569)
+Abortion Spontaneous
+hsa-mir-128-1
+hsa-mir-584
+LSINCT10
+Gliosis
+intergenic lncrna(be702744)
+LOC100507661
+MYU
+hsa-mir-105
+hsa-mir-1301
+Congenital Hypothyroidism
+intronic lncrna in nkain2 locus(be160056)
+hsa-mir-30c-1
+hsa-mir-505
+hsa-miR-942
+Adenocarcinoma Follicular
+hsa-mir-944
+lncRNA00673
+RP5-833A20.1
+Autoimmune Lymphoproliferative Syndrome
+hsa-mir-507
+AB019562
+intergenic lncrna(be155946)
+Diarrhea
+hsa-mir-612
+AC026904.1
+intronic lncrna in maea locus(be168993)
+LBCS
+hsa-mir-570
+Vulvar Neoplasms
+intronic lncrna in itpr1 locus(bf857841)
+LSINCT6
+Dermatitis Atopic
+hsa-mir-1228
+PARROT
+intronic lncrna in tnk2 locus(ck327106)
+intronic lncrna in ppp4r1 locus(be003587)
+intronic lncrna in stx12 locus(aw820168)
+Neoplasms Germ Cell and Embryonal
+intronic lncrna in arhgap12 locus(be007885)
+hsa-mir-376c
+Venous Thromboembolism
+intronic lncrna in nr2c2 locus(be166370)
+X91348
+intronic lncrna in arrb1 locus(bf944729)
+Carcinoma
+intronic lncrna in c16orf46 locus(bf364131)
+hsa-mir-524
+GPC3-AS1
+hsa-mir-519
+lncRNA625
+intergenic lncrna(be008094)
+intronic lncrna in map2k5 locus(bf893298)
+intergenic lncrna(bf956245)
+Coronavirus Infections
+LncRNA-LALR1
+intronic lncrna in nop58 locus(aw865910)
+LSINCT2
+CASC21
+intronic lncrna in n4bp2l2 locus(bq316935)
+XLOC_000303
+SlncR1
+intergenic lncrna(bf918966)
+LOC440905
+intronic lncrna in tmem189-ube2v1 locus(be062809)
+intronic lncrna in usp15 locus(bf894929)
+lncUSMycN
+﻿hsa-mir-15a
+intronic lncrna in enosf1 locus(bf334142)
+intronic lncrna in nbpf10 locus(bg004239)
+Ependymoma
+Glaucoma Open-Angle
+AC022257.1
+intronic lncrna in sorbs1 locus(bf368581)
+Dementia
+lncRNA-EBIC
+intronic lncrna in ube2v1 locus(be062809)
+hsa-miR-939
+intergenic lncrna(bf944704)
+intronic lncrna in c11orf49 locus(aw846670)
+intronic lncrna in c20orf7 locus(be089575)
+Neovascularization Pathologic
+Lymphoma Extranodal NK-T-Cell
+AC023590.1
+AC092802.1
+Substance-Related Disorders
+intronic lncrna in pask locus(be168353)
+intronic lncrna in ctnnd1 locus(bf919473)
+PINCR
+intronic lncrna in gphn locus(be160464)
+intergenic lncrna(bf754591)
+intronic lncrna in dip2b locus(aw852151)
+Lymphocytic Choriomeningitis
+AC025580.3
+Neurofibroma Plexiform
+Leprosy
+Osteonecrosis
+LINC003121
+Leukemia Monocytic Acute
+intergenic lncrna(bf736784)
+HIV
+intronic lncrna in gldn locus(aw901803)
+Cardio-Renal Syndrome
+Peritoneal Fibrosis
+hsa-miR-218-2
+Graves Ophthalmopathy
+AL357033.4
+MALAT2
+AL359062
+hsa-miR-1303
+Carotid Stenosis
+hsa-mir-320b
+Neoplasms Nerve Tissue
+Neurofibromatoses
+hsa-mir-298
+Hearing Loss Central
+Skin Diseases
+lncRNA-ROR
+intronic lncrna in lepr locus(ck327186)
+Frailty
+RP1-4514.2
+hsa-miR-26a-2
+lncRNA-422
+hsa-mir-885
+HIF2PUT
+Purpura Thrombotic Thrombocytopenic
+hsa-mir-760
+hsa-mir-513b
+PHBP1
+FR0348383
+lnc-EGFR
+Lymphoma Large-Cell Anaplastic
+Hyperprolactinemia
+Hydatidiform Mole
+hsa-mir-718
+hsa-mir-512
+CHIAP2
+Prostatic Hyperplasia
+LncRNA-BCAT1
+Peripheral Arterial Disease
+hsa-miR-1228
+Carcinoma Mucoepidermoid
+SOX2OTV7
+RMEL3
+GCRL1
+Ectodermal Dysplasia 1 Anhidrotic
+Lemierre Syndrome
+Carcinoma Islet Cell
+LINC02042
+BAALC-AS1
+hsa-mir-4458
+Rhabdomyosarcoma Embryonal
+hsa-mir-216
+SUZ12P1
+CRYBG3
+hsa-mir-1179
+SNHG18
+hsa-miR-922
+LEIGC
+LOC441178
+Gestational Trophoblastic Disease
+LncRNA ROR
+Glucose Metabolism Disorders
+SRHC
+hsa-mir-135
+Congenital Microtia
+Congenital Hyperinsulinism
+ZXF1
+hsa-mir-297
+LINC01186
+hsa-miR-26a-1
+Syndrome
+Leukemia Myelomonocytic Chronic
+Hematopoiesis
+Plasmacytoma
+Follicular Atresia
+Vitreoretinopathy Proliferative
+hsa-mir-1291
+Polycythemia Vera
+Uterine Neoplasms
+hsa-miR-125b-2
+Trophoblastic Neoplasms
+Asthenozoospermia
+LINC00598
+hsa-miR-630
+Neural Tube Defects
+LincRNAFEZF1-AS1
+Fibroma
+Lymphatic Metastasis
+Sarcoma Endometrial Stromal
+Multiple Sclerosis Relapsing-Remitting
+Hyperhomocysteinemia
+Heart Defects Congenital
+Cleft Lip
+hsa-miR-19b-2
+Frontotemporal Dementia
+Flavivirus Infections
+Dengue
