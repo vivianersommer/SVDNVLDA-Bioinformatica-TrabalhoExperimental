@@ -5,6 +5,7 @@ import random
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc, confusion_matrix
 from numpy import interp
+import xgboost as xgb
 
 
 def ReadMyCsv(SaveList, fileName):
@@ -279,7 +280,7 @@ if __name__ == '__main__':
     counter = 0
     while counter < 10:
         allNodeFeatureNum = []
-        allNodeFeatureNumName = r'DISLNCSVD.csv'
+        allNodeFeatureNumName = r'DISLNCSVDN2V16.csv'
         ReadMyCsv3(allNodeFeatureNum, allNodeFeatureNumName)
 
         positiveSampleFeature = []
@@ -353,8 +354,8 @@ if __name__ == '__main__':
         #model1 = LogisticRegression(random_state=0, solver='sag', max_iter=5)
         #原max_iter=200+
 
-        from sklearn.naive_bayes import GaussianNB
-        model1 = GaussianNB()
+        #from sklearn.naive_bayes import GaussianNB
+        #model1 = GaussianNB()
 
         #from sklearn.ensemble import RandomForestClassifier
         #model1 = RandomForestClassifier(min_samples_leaf=50, max_depth=20)
@@ -363,19 +364,19 @@ if __name__ == '__main__':
         #from sklearn.ensemble import AdaBoostClassifier
         #model1 = AdaBoostClassifier()
 
-        model1.fit(TrainFeature, TrainLabel)
-        y_score0 = model1.predict(TestFeature)
-        y_score1 = model1.predict_proba(TestFeature)
-
-        # import xgboost as xgb
-        # model1 = xgb.XGBClassifier(use_label_encoder=False, max_depth=2, min_child_weight=50, subsample=0.3)
-        # #增大min_child_weight避免过拟合
-        # TrainFeature = np.array(TrainFeature)
-        # TrainLabel = np.array(TrainLabel)
-        #
         # model1.fit(TrainFeature, TrainLabel)
-        # y_score0 = model1.predict(np.array(TestFeature))
-        # y_score1 = model1.predict_proba(np.array(TestFeature))
+        # y_score0 = model1.predict(TestFeature)
+        # y_score1 = model1.predict_proba(TestFeature)
+
+
+        model1 = xgb.XGBClassifier(use_label_encoder=False, max_depth=2, min_child_weight=50, subsample=0.3)
+        #增大min_child_weight避免过拟合
+        TrainFeature = np.array(TrainFeature)
+        TrainLabel = np.array(TrainLabel)
+
+        model1.fit(TrainFeature, TrainLabel)
+        y_score0 = model1.predict(np.array(TestFeature))
+        y_score1 = model1.predict_proba(np.array(TestFeature))
 
         #保存Real,PredictionProb.csv
         RealAndPrediction = myRealAndPrediction(TestLabel, y_score0)

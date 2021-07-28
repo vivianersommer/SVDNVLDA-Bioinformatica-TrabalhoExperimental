@@ -1,30 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48d01c32-6f22-49ad-98ca-6b5d1dc7aa7b" name="Default Changelist" comment="" />
+    <list default="true" id="48d01c32-6f22-49ad-98ca-6b5d1dc7aa7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/AllEdge.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/AllEdgeNum.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/AllNode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/AllNodeNum.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/AssociationMatrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/EdgeNumExchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/NeagtiveSample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/PositiveSample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/RandomEdge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/RandomListGroup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sampling/Sampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/10FoldAUC.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/10FoldAUC.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classifier/Classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/FprAndTpr.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/PAndR.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/PR-10fold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/PR-10fold.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/PR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/ROC-10fold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/ROC-10fold.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/ROC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/十折的表（由保存值生成）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/十折结果.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第0次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第0次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第10次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第10次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第1次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第1次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第2次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第2次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第3次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第3次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第4次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第4次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第5次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第5次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第6次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第6次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第7次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第7次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第8次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第8次Score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第9次Prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/第9次Score.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1voKKTXBjwEZlbhQHtDrPMLDdcj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Data" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.GetMat">
+  <component name="RunManager" selected="Python.Classifier">
+    <configuration name="Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SVDNVLDA-github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classifier/Classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="GetMat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SVDNVLDA-github" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Classifier" />
         <item itemvalue="Python.GetMat" />
       </list>
     </recent_temporary>
@@ -83,5 +166,20 @@
       <updated>1627222938259</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
