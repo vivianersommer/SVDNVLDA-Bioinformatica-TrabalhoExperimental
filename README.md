@@ -7,7 +7,7 @@
 | packageName  | version |
 | :----------: | ------- |
 |   networkx   | 2.5.1   |
-|    bumpy     | 1.19.5  |
+|    numpy     | 1.19.5  |
 |    pandas    | 0.20.3  |
 | scikit-learn | 0.24.2  |
 |    scipy     | 1.5.4   |
