@@ -41,3 +41,7 @@ and *node2vec* package was downloaded from [https://github.com/eliorc/node2vec](
 
 ​	***Classifier* Folder:**	**implete the ultimate classification exhibit the 10-fold cross validation results**	
 
+### Ideia
+Rodar o aquivo classifier.py, mudando os parâmetros do XGBoost, com pelo menos 3 datasets.
+Montar os gráficos e fazer uma comparação dos resultados
+
