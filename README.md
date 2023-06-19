@@ -43,5 +43,6 @@ and *node2vec* package was downloaded from [https://github.com/eliorc/node2vec](
 
 ### Ideia
 Rodar o arquivo classifier.py, mudando os parâmetros do XGBoost, com pelo menos 3 datasets.
-Montar os gráficos e fazer uma comparação dos resultados
+
+Montar os gráficos e fazer uma comparação dos resultados.
 
